@@ -1,0 +1,1 @@
+MouseDistanceFromElement takes an element and has methods to get the distance of a point (x, y) from a given DOM element. In this case, I'm using it to detect the distance from the mouse to an element. It also allows you to monitor the cursor's distance from any given side of a particular element.
